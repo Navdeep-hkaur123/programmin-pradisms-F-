@@ -1,1 +1,1 @@
-# test-2-programming-paradism
+# test-programaming-paradism
