@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\F#\\2f#\\MyFSharpApp.fsproj": {}
+    "C:\\F#\\2f#\\MyFSharpApp\\MyFSharpApp.fsproj": {}
   },
   "projects": {
-    "C:\\F#\\2f#\\MyFSharpApp.fsproj": {
+    "C:\\F#\\2f#\\MyFSharpApp\\MyFSharpApp.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\F#\\2f#\\MyFSharpApp.fsproj",
+        "projectUniqueName": "C:\\F#\\2f#\\MyFSharpApp\\MyFSharpApp.fsproj",
         "projectName": "MyFSharpApp",
-        "projectPath": "C:\\F#\\2f#\\MyFSharpApp.fsproj",
+        "projectPath": "C:\\F#\\2f#\\MyFSharpApp\\MyFSharpApp.fsproj",
         "packagesPath": "C:\\Users\\15145\\.nuget\\packages\\",
-        "outputPath": "C:\\F#\\2f#\\obj\\",
+        "outputPath": "C:\\F#\\2f#\\MyFSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\15145\\AppData\\Roaming\\NuGet\\NuGet.Config"
